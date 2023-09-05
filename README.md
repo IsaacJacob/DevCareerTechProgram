@@ -1,1 +1,1 @@
-# An assignment to create a responsive table
+# A responsive table created using just HTML and CSS
